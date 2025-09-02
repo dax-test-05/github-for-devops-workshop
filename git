@@ -14,3 +14,11 @@ clear
 clear
 git status
 clear
+ git remote add origin 
+  git remote -v
+   git remote set-url origin 
+ git remote -v
+   git push origin master
+ clear
+   git remote -v
+clear
