@@ -1,0 +1,16 @@
+clear
+    python test.py
+  git init
+   dir
+   git status
+  dir
+  clear
+   git status
+ git add test.py
+   clear
+   git status
+ git restore test.py
+ dir
+clear
+git status
+clear
